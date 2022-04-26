@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# SMD-Linux Root XFCE
+Config files for SMD-Linux
